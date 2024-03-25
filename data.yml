@@ -1,0 +1,7 @@
+train: ./train/imges
+val: C:/Users/ASUS/yolo/yolo/val/images
+
+nc: 3
+
+names: ["mask","gloves","cap"]
+
